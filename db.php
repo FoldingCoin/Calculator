@@ -1,7 +1,7 @@
 <?php
 //db.php - contains db configs
 
-
+//Copyrght © 2014 FoldingCoin, All Rights Reserved
 
 
 function dbConnect(){

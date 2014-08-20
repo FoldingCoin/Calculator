@@ -1,9 +1,7 @@
 <?php
 //snapshot.php - Ingest weekly FAH snapshot into database
-//Need to incorporate snapshot delay logic - done
-//incorporate getter, with file exists check
 
-
+//Copyrght © 2014 FoldingCoin, All Rights Reserved
 
 
 

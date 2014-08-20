@@ -2,6 +2,9 @@
 //calculate.php
 //calculate FLDC distribution
 
+//Copyrght © 2014 FoldingCoin, All Rights Reserved
+
+
 include('functions.php');
 include('db.php');
 $db=dbConnect();
