@@ -1,0 +1,4 @@
+Calculator
+==========
+
+Automated Payout Calculator
