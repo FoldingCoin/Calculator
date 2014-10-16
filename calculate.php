@@ -77,12 +77,6 @@ if ($todaySnapResults = $db->query($todaySnapQuery)) {
 			$invalidAddresses=$invalidAddresses."$address is not a valid Bitcoin address, $delta folding credits will be forfeited.\n";
 			echo "$address is not a valid Bitcoin address, $delta folding credits will be forfeited.\n";
 		}
-		$delta=0;
-		$todayCredits=0;
-		$yesterdayCredits=0;
-		$valid='';
-		$invalidAddresses='';
-
 	}
 }
 
