@@ -1,7 +1,8 @@
 <?php
-//functions.php - contains app wide functions
+//functions.php - contains app wide configs
 
 //Copyrght © 2014 FoldingCoin, All Rights Reserved
+
 
 
 
